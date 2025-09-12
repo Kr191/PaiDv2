@@ -65,6 +65,7 @@ This is one way to run your app — you can also build it directly from Android 
 ## Step 3: Modify your app
 
 Now that you have successfully run the app, let's make changes!
+
 **put tthis in your android/app/build.gradle '''apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"'''**
 Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
 
